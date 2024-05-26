@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\RITHIK\Flight Prediction using AWS Sagemaker\aws_sagemaker_campusx"
+VIRTUAL_ENV="C:\Users\RITHIK\Flight Prices Prediction with AWS Sagemaker\aws_sagemaker_campusx"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"

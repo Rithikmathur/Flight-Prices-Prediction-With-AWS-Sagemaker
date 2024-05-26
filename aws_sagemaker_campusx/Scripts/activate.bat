@@ -8,7 +8,7 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
-set VIRTUAL_ENV=C:\Users\RITHIK\Flight Prediction using AWS Sagemaker\aws_sagemaker_campusx
+set VIRTUAL_ENV=C:\Users\RITHIK\Flight Prices Prediction with AWS Sagemaker\aws_sagemaker_campusx
 
 if not defined PROMPT set PROMPT=$P$G
 
